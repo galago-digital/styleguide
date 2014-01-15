@@ -1,25 +1,8 @@
 _Версия документа 0.1 prealpha_
 
-### Структура проекта
-```
-project-name/
-|scss/
-|   |....
-|css/                   // Автоматически компилируются стили разработанные в scss
-|   |all.css            // Все наиболее часто используемые стили блоков, а так же базовые стили проекта
-|   |....               // Файлы css имеют такое же наименование как html файлы статических страниц
-|js/
-|   |....
-|   |....
-|img/
-|   |....
-|   |....
-|font/
-|index.html
-|tarifs.html
-|price.html
-|router-tarifs.html
-|contact.html
-|partners.html
-```
+###Содержание
 
+[Введение](https://github.com/galago-digital/styleguide/wiki/Введение)
+[Руководству по стилям HTML, CSS, SCSS](https://github.com/galago-digital/styleguide/wiki/Руководству по стилям HTML, CSS, SCSS)
+[Система каталогов проекта](https://github.com/galago-digital/styleguide/wiki/Система каталогов проекта)
+[Словари префиксов, сокращений, модификаторов](https://github.com/galago-digital/styleguide/wiki/Словари префиксов, сокращений, модификаторов)
