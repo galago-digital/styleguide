@@ -1,4 +1,25 @@
-styleguide
-==========
+_Версия документа 0.1 prealpha_
 
-Our style guide and specification workflow for front-end development
+### Структура проекта
+```
+project-name/
+|scss/
+|   |....
+|css/                   // Автоматически компилируются стили разработанные в scss
+|   |all.css            // Все наиболее часто используемые стили блоков, а так же базовые стили проекта
+|   |....               // Файлы css имеют такое же наименование как html файлы статических страниц
+|js/
+|   |....
+|   |....
+|img/
+|   |....
+|   |....
+|font/
+|index.html
+|tarifs.html
+|price.html
+|router-tarifs.html
+|contact.html
+|partners.html
+```
+
